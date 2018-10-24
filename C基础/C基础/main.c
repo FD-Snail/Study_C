@@ -7,9 +7,10 @@
 //
 
 #include <stdio.h>
+#include "day7_字符串的输入输出.h"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    StringScanfAndPrinte();
     return 0;
 }
+

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		62D23287218093B700332801 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 62D23286218093B700332801 /* main.c */; };
+		62D232D32180A92400332801 /* day7_字符串的输入输出.c in Sources */ = {isa = PBXBuildFile; fileRef = 62D232D22180A92400332801 /* day7_字符串的输入输出.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		62D23283218093B700332801 /* C基础 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C基础"; sourceTree = BUILT_PRODUCTS_DIR; };
 		62D23286218093B700332801 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		62D232D12180A92400332801 /* day7_字符串的输入输出.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "day7_字符串的输入输出.h"; sourceTree = "<group>"; };
+		62D232D22180A92400332801 /* day7_字符串的输入输出.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "day7_字符串的输入输出.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				62D23286218093B700332801 /* main.c */,
+				62D232D12180A92400332801 /* day7_字符串的输入输出.h */,
+				62D232D22180A92400332801 /* day7_字符串的输入输出.c */,
 			);
 			path = "C基础";
 			sourceTree = "<group>";
@@ -118,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62D232D32180A92400332801 /* day7_字符串的输入输出.c in Sources */,
 				62D23287218093B700332801 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
